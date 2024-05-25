@@ -2,6 +2,7 @@
 
 Welcome to my Simple Calculator App repository! This project is a basic calculator built using HTML, CSS, and JavaScript. It provides essential arithmetic operations like addition, subtraction, multiplication, and division.
 
+### Check out the project here!: solvenite-calculator.vercel.app
 ## Features
 
 - **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
@@ -21,23 +22,6 @@ To get a local copy of the project up and running, follow these steps:
 
 You will need a web browser to open the `index.html` file.
 
-### Installation
-
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/your-username/simple-calculator.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```sh
-    cd simple-calculator
-    ```
-
-3. **Open `index.html` in your browser**:
-    ```sh
-    open index.html
-    ```
-
 ## Usage
 
 1. Enter the numbers and select the desired arithmetic operation.
@@ -48,6 +32,7 @@ You will need a web browser to open the `index.html` file.
 
 - `index.html`: The main HTML file.
 - `style.css`: The CSS file for styling the calculator.
+
 
 ## Contributing
 
