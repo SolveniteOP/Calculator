@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **GitHub**: (https://github.com/solveniteop)
-- **Email**: solveniteop@protonmail.me
+- **Email**: solveniteop@proton.me
 ---
 
 Thank you for checking out my Simple Calculator App! If you found this project helpful or interesting, please consider giving it a star ⭐ on GitHub.
