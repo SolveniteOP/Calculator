@@ -14,20 +14,6 @@ Welcome to my Simple Calculator App repository! This project is a basic calculat
 - **HTML**: For structuring the content.
 - **CSS**: For styling the application.
 
-## Getting Started
-
-To get a local copy of the project up and running, follow these steps:
-
-### Prerequisites
-
-You will need a web browser to open the `index.html` file.
-
-## Usage
-
-1. Enter the numbers and select the desired arithmetic operation.
-2. Click on the `=` button to get the result.
-3. Use the `AC` button to clear the current input and start a new calculation.
-
 ## Project Structure
 
 - `index.html`: The main HTML file.
